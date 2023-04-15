@@ -19,7 +19,7 @@ Modular Design :
 
 **To Clone the Repository** : 
 1) Open Terminal in your System
-2) Type Cmd : git clone 
+2) Type Cmd : git clone https://github.com/Shashank-Jha/PetCare.git
 3) Once the Clone is Built,
 4) Go to Client Folder : npm install, followed by npm start
 5) Go to Server Folder: npm install, followed by npm start
